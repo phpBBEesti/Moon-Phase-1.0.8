@@ -2,7 +2,7 @@
 /**
 *
 * Board Rules extension for the phpBB Forum Software package.
-* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
+* Estonian translation by phpBBeesti.ee [Exabot]
 *
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -44,5 +44,5 @@ $lang = array_merge($lang, array(
 	'MOON_TITLE'				=> 'Tänane kuu faas',
 	'MOON_ALT'					=> 'Dünaamiline kuu pilt',
 
-	'MOONPHASE_REQUIRE_3.1.4'	=> 'See laiendus nõuab phpBB 3.1.4 või uuemat versiooni.',
+	'MOON_COPYRIGHT'			=> 'Kuu pilt "Courtesy of Calendrier Lunaire".',
 ));
